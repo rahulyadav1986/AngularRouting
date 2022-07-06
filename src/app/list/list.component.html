@@ -1,0 +1,13 @@
+
+<ul>
+    <li *ngFor="let list of lists | paginate:{itemsPerPage: 1, currentPage: p}" [routerLink]="['/', 'list', list.id]">
+        <img [src]="list.urlToImage" alt="">
+        <h6>
+            <span>{{list.source.name}}</span><br />
+            <span>{{list.author}}</span>
+        </h6>
+        <h2>{{list.title}}</h2>        
+        <p>{{list.description}}</p>
+    </li>
+</ul>
+<pagination-controls (pageChange)="p = $event" ></pagination-controls>

@@ -1,0 +1,43 @@
+{
+    "lists": [
+        {
+            "id": 1,
+            "source": {                
+                "name": "Skift"
+            },
+            "author": "Dawn Chmielewski and David Shepardson, Reuters",
+            "title": "Abortion Travel Is Now a Corporate Benefit for Some Employees After U.S. Supreme Court Ban",
+            "description": "It's good that these companies are stepping up to back their women employees' right to choose. And this kicks off a new U.S. trend for domestic travel. -Dennis Schaal",
+            "url": "https://skift.com/2022/06/25/abortion-travel-is-now-a-corporate-benefit-for-some-employees-after-u-s-supreme-court-ban/",
+            "urlToImage": "https://skift.com/wp-content/uploads/2022/06/Roe-V-Wade-e1656160496566.jpg",
+            "publishedAt": "2022-06-25T12:43:00Z",
+            "content": "U.S. companies including Walt Disney Co and Facebook parent Meta Platforms Inc said on Friday they will cover employees’ expenses if they have to travel for abortion services after the U.S. Supreme C… [+4898 chars]"
+        },
+        {
+            "id": 2,
+            "source": {                
+                "name": "Business Standard"
+            },
+            "author": "Business Standard",
+            "title": "Take note, Elon Musk: this company is quietly dominating EV race",
+            "description": "Tesla still sells far more cars, but it took the company a decade to deliver as many electric vehicles as Hyundai and Kia have managed in a few short months. Even Musk has been impressed.",
+            "url": "https://www.business-standard.com/article/automobile/sorry-elon-musk-hyundai-is-quietly-dominating-the-electric-cars-section-122062500655_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/25/full/1656159931-3088.jpg",
+            "publishedAt": "2022-06-25T12:30:00Z",
+            "content": "Pipe down for a second Elon, the hottest things in the auto industry — the most electric electrics — now come from Hyundai Motor Co. and Kia Corp.\r\nEarlier this year, the South Korean carmakers rolle… [+4739 chars]"
+        },
+        {
+            "id": 3,
+            "source": {                
+                "name": "New York Times"
+            },
+            "author": "Ephrat Livni, Lauren Hirsch and Jenny Gross",
+            "title": "Businesses Are Bracing for the Political and Social Fight Post-Roe",
+            "description": "Reeling from competing demands from stakeholders — including activists, clients, consumers, shareholders and elected officials — businesses are increasingly caught in the middle of the country’s bruising culture wars.",
+            "url": "https://www.nytimes.com/2022/06/25/business/dealbook/businesses-brace-for-post-roe.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/25/business/25db-dobbs/25db-dobbs-facebookJumbo.jpg",
+            "publishedAt": "2022-06-25T12:00:05Z",
+            "content": "In the past year, Tesla moved from the San Francisco Bay Area to Austin, Texas; just this past week, Citadel said it was moving from Chicago to Miami. That has been the playbook for corporate America… [+2140 chars]"
+        }
+    ]
+}
